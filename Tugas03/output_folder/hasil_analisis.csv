@@ -1,0 +1,10 @@
+﻿nama_file,rata_rata_intensitas,standar_deviasi,metode_enhancement
+6 Sept 2026 at 06_35(1).jpg,231.88,31.91,"Median Filter, Gamma Correction, CLAHE"
+6 Sept 2026 at 06_35(2).jpg,231.34,32.9,"Median Filter, Gamma Correction, CLAHE"
+6 Sept 2026 at 06_35(3).jpg,237.72,37.87,"Median Filter, Gamma Correction, CLAHE"
+6 Sept 2026 at 06_35(4).jpg,239.59,28.73,"Gamma Correction, CLAHE"
+6 Sept 2026 at 06_35(5).jpg,239.2,33.0,"Median Filter, Gamma Correction, CLAHE"
+6 Sept 2026 at 06_35(6).jpg,239.61,20.05,"Gamma Correction, CLAHE"
+6 Sept 2026 at 06_35(7).jpg,238.98,34.13,"Median Filter, Gamma Correction, CLAHE"
+6 Sept 2026 at 06_35(8).jpg,184.56,22.2,"Gamma Correction, CLAHE"
+6 Sept 2026 at 06_35.jpg,154.94,15.24,CLAHE

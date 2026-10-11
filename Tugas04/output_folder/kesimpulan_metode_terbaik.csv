@@ -1,0 +1,10 @@
+﻿Nama Gambar,Metode Terbaik,CER Terendah (%)
+01_HighQuality_Enhanced.jpg,"Brightness, Contrast",0.0
+02_LowContrast.jpg,"Brightness, Contrast",0.0
+03_Blurred.jpg,Contrast,0.0
+04_HighNoise.jpg,"Brightness, Contrast",0.0
+05_LowResolution_Upsampled.jpg,"Brightness, Contrast",0.0
+06_Faded_Underexposed.jpg,"Brightness, Contrast",0.0
+07_ColorShift_WarmTint.jpg,"Brightness, Contrast",0.0
+08_JPEGCompression_Artifacts.jpg,"Brightness, Contrast",0.0
+09_CombinedDegradation.jpg,"Brightness, Contrast",0.0

@@ -1,0 +1,37 @@
+﻿Nama Gambar,Metode,Hasil OCR,CER (%)
+01_HighQuality_Enhanced.jpg,Tanpa Enhancement,571012022000056,0.0
+01_HighQuality_Enhanced.jpg,Brightness,571012022000056,0.0
+01_HighQuality_Enhanced.jpg,Contrast,571012022000056,0.0
+01_HighQuality_Enhanced.jpg,Histogram,(kosong),100.0
+02_LowContrast.jpg,Tanpa Enhancement,571012022000056,0.0
+02_LowContrast.jpg,Brightness,571012022000056,0.0
+02_LowContrast.jpg,Contrast,571012022000056,0.0
+02_LowContrast.jpg,Histogram,(kosong),100.0
+03_Blurred.jpg,Tanpa Enhancement,571012022000056,0.0
+03_Blurred.jpg,Brightness,71012022000056,6.67
+03_Blurred.jpg,Contrast,571012022000056,0.0
+03_Blurred.jpg,Histogram,(kosong),100.0
+04_HighNoise.jpg,Tanpa Enhancement,571012022000056,0.0
+04_HighNoise.jpg,Brightness,571012022000056,0.0
+04_HighNoise.jpg,Contrast,571012022000056,0.0
+04_HighNoise.jpg,Histogram,(kosong),100.0
+05_LowResolution_Upsampled.jpg,Tanpa Enhancement,571012022000056,0.0
+05_LowResolution_Upsampled.jpg,Brightness,571012022000056,0.0
+05_LowResolution_Upsampled.jpg,Contrast,571012022000056,0.0
+05_LowResolution_Upsampled.jpg,Histogram,(kosong),100.0
+06_Faded_Underexposed.jpg,Tanpa Enhancement,571012022000056,0.0
+06_Faded_Underexposed.jpg,Brightness,571012022000056,0.0
+06_Faded_Underexposed.jpg,Contrast,571012022000056,0.0
+06_Faded_Underexposed.jpg,Histogram,(kosong),100.0
+07_ColorShift_WarmTint.jpg,Tanpa Enhancement,571012022000056,0.0
+07_ColorShift_WarmTint.jpg,Brightness,571012022000056,0.0
+07_ColorShift_WarmTint.jpg,Contrast,571012022000056,0.0
+07_ColorShift_WarmTint.jpg,Histogram,(kosong),100.0
+08_JPEGCompression_Artifacts.jpg,Tanpa Enhancement,571012022000056,0.0
+08_JPEGCompression_Artifacts.jpg,Brightness,571012022000056,0.0
+08_JPEGCompression_Artifacts.jpg,Contrast,571012022000056,0.0
+08_JPEGCompression_Artifacts.jpg,Histogram,(kosong),100.0
+09_CombinedDegradation.jpg,Tanpa Enhancement,571012022000056,0.0
+09_CombinedDegradation.jpg,Brightness,571012022000056,0.0
+09_CombinedDegradation.jpg,Contrast,571012022000056,0.0
+09_CombinedDegradation.jpg,Histogram,(kosong),100.0
