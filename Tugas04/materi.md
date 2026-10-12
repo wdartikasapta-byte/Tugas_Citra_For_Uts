@@ -71,7 +71,7 @@ Keterangan:
 
 ### 3.3 Histogram Equalization
 
-Histogram Equalization adalah metode untuk meningkatkan kontras dengan mendistribusikan kembali intensitas piksel berdasarkan histogram citra.
+Histogram Equalization berfungsi untuk meningkatkan kontras dengan meratakan distribusi intensitas piksel.
 
 Kode penting:
 
